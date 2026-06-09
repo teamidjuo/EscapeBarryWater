@@ -1,18 +1,18 @@
 {
     
-   "our_ads1_activation":"true",
+   "our_ads1_activation":"false",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/GrannyPolice%20ads1.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
 
-    "our_ads2_activation":"true",
+    "our_ads2_activation":"false",
     "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/barryAds1.png",
     "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.ObbyPrison.EscapeBarry",
 
-    "our_ads3_activation":"true",
+    "our_ads3_activation":"false",
     "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/RatDance%2001.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
 
-    "our_ads_inter_activation":"true",
+    "our_ads_inter_activation":"false",
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/rat%20dannce%20native%20AD.png",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
 
@@ -35,11 +35,12 @@
     "use_mediation": "false",
     "max_percentage": "70",
     "admob_percentage": "30",
+    
     "applovin_activation": "true",
-    "unity_activation": "true",
-    "admob_activation": "true",
-    "applovin_percentage": "30",
-    "unity_percentage": "30",
-    "admob_percentage_non_mediation": "40"
+    "unity_activation": "false",
+    "admob_activation": "false",
+    "applovin_percentage": "100",
+    "unity_percentage": "0",
+    "admob_percentage_non_mediation": "0"
 
 }
