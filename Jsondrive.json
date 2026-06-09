@@ -1,6 +1,5 @@
 {
-    "jumps_before_interstitial": "10",
-  
+    
    "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/GrannyPolice%20ads1.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
