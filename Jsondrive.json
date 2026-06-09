@@ -30,6 +30,17 @@
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "00000000000",
   "appLovin_interstitial": "eed93dd5fd8c4ec0",
-  "appLovin_rewarded_video": "138a768d22772049"
+  "appLovin_rewarded_video": "138a768d22772049",
+
+
+    "use_mediation": "false",
+    "max_percentage": "70",
+    "admob_percentage": "30",
+    "applovin_activation": "true",
+    "unity_activation": "true",
+    "admob_activation": "true",
+    "applovin_percentage": "30",
+    "unity_percentage": "30",
+    "admob_percentage_non_mediation": "40"
 
 }
